@@ -1,0 +1,23 @@
+
+page xv, foreward
+
+Data science is the key to making this flood of information useful. Simply put,
+data science is the art of wrangling data to predict our future behavior, uncover
+pattern to help prioritize or provide actionable information, or otherwise draw
+meaning from thest vast, untapped data resources.
+
+page 7, chapter 1
+
+What's the point of all this data?
+Why use valuable resources to generate and collect it?
+
+Specialists known as data engineers are constantly finding innovative and
+powerful new ways to capture, collate and condense unimaginably massive
+volumes of data, and other specialists, known as data scientists, are leading
+change by deriving valuable and actionable insights from that data.
+
+Data Science
+Data Engineering
+	Structured, Unstructured, Semistructured Data
+
+PAGE 10
