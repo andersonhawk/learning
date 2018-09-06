@@ -20,4 +20,19 @@ Data Science
 Data Engineering
 	Structured, Unstructured, Semistructured Data
 
-PAGE 10
+Data science relies heavily on a practitioner's math skills (and statistics
+skills, as described in the following section) precisely because these are the
+skills needed to understand your data and its significance. These skills are
+also valuable in data science because you can use them to carry out predictive
+forecasting, decision modeling, and hypotheses testing.
+
+Coding is unavoidable when you're working in data science. You need to be able
+to write code so that you can instruct the computer how you want it to
+manipulate, analyze, and visualize your data. Programming languages such as
+Python and R are important for writing scripts for data manipulation,
+analaysis, and visualization, and SQL is useful for data querying. The
+JavaScript library D3.js is a hot new option for marking cool, custom, and
+interactive web-based data visualizations.
+
+PAGE 17
+
